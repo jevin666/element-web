@@ -238,7 +238,6 @@
         "oidc": {
             "error_title": "Wir konnten dich nicht anmelden",
             "generic_auth_error": "Etwas ist während der Authentifizierung schiefgelaufen. Geh zurück zur Anmeldeseite und probiere es erneut.",
-            "logout_redirect_warning": "Sie werden zum Server Authentifizierungsanbieter weitergeleitet, um die Abmeldung abzuschließen.",
             "missing_or_invalid_stored_state": "Wir haben deinen Browser gebeten, sich zu merken, bei welchem Heim-Server du dich anmeldest, aber dein Browser hat dies leider vergessen. Gehe zur Anmeldeseite und versuche es erneut."
         },
         "password_field_keep_going_prompt": "Fortfahren …",
@@ -914,6 +913,9 @@
             "warning": "Wenn du die Wiederherstellungsmethode nicht gelöscht hast, kann ein Angreifer versuchen, Zugang zu deinem Konto zu bekommen. Ändere dein Passwort und richte sofort eine neue Wiederherstellungsmethode in den Einstellungen ein."
         },
         "reset_all_button": "Hast du alle Wiederherstellungsmethoden vergessen? <a>Setze sie hier zurück</a>",
+        "set_up_recovery": "Wiederherstellung einrichten",
+        "set_up_recovery_later": "Nicht jetzt",
+        "set_up_recovery_toast_description": "Generieren Sie einen Wiederherstellungsschlüssel, damit Sie Ihren verschlüsselten Nachrichtenverlauf wiederherstellen können, falls Sie den Zugriff auf Ihre Geräte verlieren.",
         "set_up_toast_description": "Schütze dich vor dem Verlust verschlüsselter Nachrichten und Daten",
         "set_up_toast_title": "Schlüsselsicherung einrichten",
         "setup_secure_backup": {
@@ -1458,8 +1460,6 @@
         "notification_settings_beta_caption": "Einen einfacheren Weg um die Einstellungen für Benachrichtigungen zu ändern vorstellen. Passe Deine %(brand)s so an wie Du willst.",
         "notification_settings_beta_title": "Benachrichtigungseinstellungen",
         "notifications": "Benachrichtigungen in der Kopfleiste des Raums anschalten",
-        "oidc_native_flow": "Native OIDC Authentifizierung",
-        "oidc_native_flow_description": "⚠ Warnung: Experimentell. Nutze OIDC native Authentifizierung wenn dies vom Server unterstützt wird.",
         "release_announcement": "Release Ankündigung",
         "render_reaction_images": "Benutzerdefinierte Bilder in Reaktionen anzeigen",
         "render_reaction_images_description": "Werden manchmal auch als „benutzerdefinierte Emojis“ bezeichnet.",
